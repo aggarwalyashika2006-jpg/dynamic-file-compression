@@ -1,0 +1,2 @@
+hello huffman coding project
+this project demonstrates file compression using huffman coding

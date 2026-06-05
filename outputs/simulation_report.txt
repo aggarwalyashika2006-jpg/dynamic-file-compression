@@ -1,0 +1,25 @@
+DYNAMIC FILE COMPRESSION UTILITY
+
+Input File:
+sample.txt
+
+Algorithm:
+Huffman Coding
+
+Original Size:
+704 bits
+
+Compressed Size:
+392 bits
+
+Compression Ratio:
+55.68%
+
+Space Saved:
+44.32%
+
+Verification:
+SUCCESS
+
+Result:
+Original file successfully recovered after decompression.
